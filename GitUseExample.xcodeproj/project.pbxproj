@@ -12,6 +12,7 @@
 		F1060A8220F404190012ECAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1060A8020F404190012ECAA /* Main.storyboard */; };
 		F1060A8420F4041F0012ECAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1060A8320F4041F0012ECAA /* Assets.xcassets */; };
 		F1060A8720F4041F0012ECAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1060A8520F4041F0012ECAA /* LaunchScreen.storyboard */; };
+		F1060A8F20F46AD90012ECAA /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1060A8E20F46AD90012ECAA /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F1060A8320F4041F0012ECAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1060A8620F4041F0012ECAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1060A8820F4041F0012ECAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1060A8E20F46AD90012ECAA /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F1060A7C20F404190012ECAA /* AppDelegate.swift */,
 				F1060A7E20F404190012ECAA /* ViewController.swift */,
+				F1060A8E20F46AD90012ECAA /* MapForItinerary.swift */,
 				F1060A8020F404190012ECAA /* Main.storyboard */,
 				F1060A8320F4041F0012ECAA /* Assets.xcassets */,
 				F1060A8520F4041F0012ECAA /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				F1060A7F20F404190012ECAA /* ViewController.swift in Sources */,
 				F1060A7D20F404190012ECAA /* AppDelegate.swift in Sources */,
+				F1060A8F20F46AD90012ECAA /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
